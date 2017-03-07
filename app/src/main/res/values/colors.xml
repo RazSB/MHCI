@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!-- draw -->
+    <color name="transparent">#00000000</color>
+    <color name="white">#ffffff</color>
+    <color name="white_trans">#80ffffff</color>
+    <color name="white_trans0">#00ffffff</color>
+    <color name="white_trans1">#eeffffff</color>
+    <color name="black">#000000</color>
+    <color name="black_trans">#80000000</color>
+    <color name="grey">#4b4b4b</color>
+    <color name="grey_light">#9fa2a4</color>
+    <color name="grey_light_more">#c4c4c4</color>
+    <color name="grey_light_extra">#ebebeb</color>
+
+    <color name="colorPrimary_red">#F44336</color>
+    <color name="colorPrimary_pink">#E91E63</color>
+    <color name="colorPrimary_purple">#9C27B0</color>
+    <color name="colorPrimary_indigo">#3F51B5</color>
+    <color name="colorPrimary_blue">#2196F3</color>
+    <color name="colorPrimary_cyan">#00BCD4</color>
+    <color name="colorPrimary_teal">#009688</color>
+    <color name="colorPrimary_green">#4CAF50</color>
+    <color name="colorPrimary_lime">#CDDC39</color>
+    <color name="colorPrimary_yellow">#FFEB3B</color>
+    <color name="colorPrimary_orange">#FF9800</color>
+    <color name="colorPrimary_brown">#795548</color>
+
+    <!-- Background -->
+    <color name="main_bg_color">#ffffff</color>
+    <color name="color_tab_off">#000000</color>
+    <color name="color_tab_on">#9fa2a4</color>
+
+    <!-- Text color -->
+    <color name="text_title_color">#FF9800</color>
+    <color name="txt_tab_on">#FF9800</color>
+    <color name="txt_tab_off">#ffffff</color>
+    <color name="txt_nav_on">#FF9800</color>
+    <color name="txt_nav_off">#4b4b4b</color>
+
+    <color name="text_normal_color">#6F6F6F</color>
+    <color name="text_light_color">#AAAAAA</color>
+    <color name="text_dark_color">#4b4b4b</color>
+
+</resources>
